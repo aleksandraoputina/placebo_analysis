@@ -1,0 +1,2001 @@
+ID,Group,Blood_Pressure_Before,Blood_Pressure_After
+1,Placebo,106,103.0
+2,No Treatment,107,108.0
+3,No Treatment,116,114.0
+4,No Treatment,125,128.0
+5,Placebo,133,135.0
+6,Placebo,107,97.0
+7,Placebo,142,137.0
+8,No Treatment,115,112.0
+9,No Treatment,119,118.0
+10,No Treatment,108,108.0
+11,Placebo,83,80.0
+12,No Treatment,133,134.0
+13,No Treatment,131,131.0
+14,Placebo,115,111.0
+15,Placebo,121,116.0
+16,Placebo,127,119.0
+17,Placebo,96,92.0
+18,No Treatment,112,112.0
+19,Placebo,131,124.0
+20,Placebo,101,90.0
+21,No Treatment,124,124.0
+22,Placebo,99,98.0
+23,Placebo,126,124.0
+24,Placebo,119,115.0
+25,Placebo,95,91.0
+26,No Treatment,137,137.0
+27,Placebo,108,107.0
+28,No Treatment,107,109.0
+29,No Treatment,123,124.0
+30,Placebo,137,133.0
+31,No Treatment,104,105.0
+32,Placebo,120,118.0
+33,Placebo,126,121.0
+34,No Treatment,130,129.0
+35,No Treatment,122,122.0
+36,No Treatment,114,114.0
+37,Placebo,107,106.0
+38,Placebo,121,117.0
+39,No Treatment,103,101.0
+40,Placebo,76,72.0
+41,Placebo,126,118.0
+42,Placebo,133,129.0
+43,Placebo,84,77.0
+44,No Treatment,104,104.0
+45,Placebo,129,123.0
+46,No Treatment,150,149.0
+47,Placebo,120,113.0
+48,No Treatment,109,110.0
+49,No Treatment,117,115.0
+50,Placebo,140,132.0
+51,No Treatment,110,113.0
+52,No Treatment,108,107.0
+53,No Treatment,112,112.0
+54,No Treatment,105,106.0
+55,No Treatment,121,120.0
+56,No Treatment,144,145.0
+57,Placebo,124,125.0
+58,Placebo,116,115.0
+59,Placebo,115,115.0
+60,Placebo,96,88.0
+61,Placebo,133,129.0
+62,Placebo,118,110.0
+63,No Treatment,117,115.0
+64,Placebo,167,160.0
+65,Placebo,124,117.0
+66,No Treatment,108,110.0
+67,Placebo,113,112.0
+68,No Treatment,137,137.0
+69,Placebo,121,115.0
+70,No Treatment,98,97.0
+71,No Treatment,133,133.0
+72,Placebo,109,108.0
+73,Placebo,148,145.0
+74,No Treatment,136,137.0
+75,No Treatment,113,112.0
+76,No Treatment,139,138.0
+77,No Treatment,121,121.0
+78,Placebo,132,133.0
+79,Placebo,127,118.0
+80,Placebo,107,106.0
+81,No Treatment,110,108.0
+82,No Treatment,135,138.0
+83,Placebo,114,113.0
+84,Placebo,113,106.0
+85,Placebo,105,104.0
+86,Placebo,126,123.0
+87,No Treatment,150,149.0
+88,No Treatment,103,104.0
+89,No Treatment,120,120.0
+90,Placebo,141,136.0
+91,Placebo,118,111.0
+92,No Treatment,126,125.0
+93,No Treatment,104,104.0
+94,No Treatment,126,127.0
+95,No Treatment,117,117.0
+96,Placebo,134,127.0
+97,No Treatment,137,139.0
+98,Placebo,158,159.0
+99,Placebo,128,124.0
+100,Placebo,124,122.0
+101,Placebo,122,115.0
+102,No Treatment,114,116.0
+103,Placebo,125,118.0
+104,No Treatment,115,116.0
+105,No Treatment,122,122.0
+106,Placebo,139,138.0
+107,Placebo,104,95.0
+108,No Treatment,137,135.0
+109,Placebo,139,133.0
+110,Placebo,118,114.0
+111,Placebo,88,84.0
+112,Placebo,110,105.0
+113,No Treatment,139,138.0
+114,No Treatment,119,119.0
+115,No Treatment,105,106.0
+116,No Treatment,112,108.0
+117,No Treatment,132,132.0
+118,Placebo,128,125.0
+119,No Treatment,116,116.0
+120,No Treatment,114,114.0
+121,No Treatment,114,116.0
+122,No Treatment,106,106.0
+123,Placebo,144,142.0
+124,Placebo,115,113.0
+125,Placebo,138,131.0
+126,Placebo,142,137.0
+127,No Treatment,134,136.0
+128,No Treatment,113,113.0
+129,Placebo,126,125.0
+130,No Treatment,119,120.0
+131,Placebo,106,104.0
+132,Placebo,124,115.0
+133,Placebo,102,99.0
+134,Placebo,137,127.0
+135,No Treatment,113,116.0
+136,Placebo,123,119.0
+137,No Treatment,124,126.0
+138,No Treatment,116,114.0
+139,Placebo,128,128.0
+140,No Treatment,112,112.0
+141,No Treatment,133,133.0
+142,Placebo,99,92.0
+143,Placebo,121,114.0
+144,Placebo,149,147.0
+145,Placebo,104,95.0
+146,Placebo,109,103.0
+147,No Treatment,127,127.0
+148,No Treatment,122,123.0
+149,Placebo,125,122.0
+150,Placebo,127,121.0
+151,No Treatment,129,128.0
+152,Placebo,136,131.0
+153,Placebo,126,124.0
+154,Placebo,116,113.0
+155,No Treatment,130,130.0
+156,Placebo,148,144.0
+157,No Treatment,118,114.0
+158,No Treatment,105,107.0
+159,Placebo,136,130.0
+160,No Treatment,118,117.0
+161,Placebo,87,84.0
+162,No Treatment,132,132.0
+163,No Treatment,111,111.0
+164,No Treatment,118,120.0
+165,Placebo,124,119.0
+166,No Treatment,122,117.0
+167,Placebo,130,127.0
+168,Placebo,113,107.0
+169,Placebo,127,122.0
+170,No Treatment,116,116.0
+171,No Treatment,131,131.0
+172,Placebo,129,122.0
+173,No Treatment,105,105.0
+174,Placebo,136,131.0
+175,No Treatment,111,114.0
+176,Placebo,132,125.0
+177,No Treatment,125,124.0
+178,Placebo,147,139.0
+179,No Treatment,116,117.0
+180,Placebo,114,110.0
+181,Placebo,119,115.0
+182,Placebo,115,113.0
+183,No Treatment,131,131.0
+184,No Treatment,95,97.0
+185,Placebo,104,98.0
+186,No Treatment,103,102.0
+187,No Treatment,134,133.0
+188,No Treatment,145,147.0
+189,No Treatment,118,118.0
+190,Placebo,117,114.0
+191,Placebo,121,118.0
+192,No Treatment,137,134.0
+193,No Treatment,106,105.0
+194,No Treatment,123,123.0
+195,Placebo,134,131.0
+196,Placebo,127,120.0
+197,No Treatment,122,123.0
+198,No Treatment,135,134.0
+199,No Treatment,79,74.0
+200,No Treatment,130,131.0
+201,No Treatment,110,108.0
+202,Placebo,92,88.0
+203,Placebo,127,124.0
+204,No Treatment,140,136.0
+205,No Treatment,117,112.0
+206,Placebo,134,130.0
+207,Placebo,144,133.0
+208,No Treatment,139,140.0
+209,Placebo,144,140.0
+210,Placebo,131,132.0
+211,No Treatment,121,121.0
+212,No Treatment,95,95.0
+213,No Treatment,116,118.0
+214,Placebo,107,101.0
+215,No Treatment,152,153.0
+216,Placebo,117,110.0
+217,Placebo,121,118.0
+218,No Treatment,128,131.0
+219,No Treatment,120,118.0
+220,No Treatment,145,145.0
+221,No Treatment,110,107.0
+222,No Treatment,122,122.0
+223,Placebo,108,104.0
+224,Placebo,100,99.0
+225,Placebo,110,102.0
+226,Placebo,119,117.0
+227,No Treatment,113,113.0
+228,Placebo,109,106.0
+229,No Treatment,98,99.0
+230,No Treatment,118,118.0
+231,No Treatment,97,98.0
+232,No Treatment,131,132.0
+233,No Treatment,121,125.0
+234,Placebo,98,93.0
+235,Placebo,115,112.0
+236,No Treatment,108,108.0
+237,Placebo,124,123.0
+238,Placebo,140,138.0
+239,No Treatment,91,90.0
+240,Placebo,121,113.0
+241,No Treatment,117,117.0
+242,No Treatment,130,129.0
+243,No Treatment,123,125.0
+244,Placebo,108,106.0
+245,Placebo,115,110.0
+246,No Treatment,108,108.0
+247,Placebo,136,132.0
+248,No Treatment,120,119.0
+249,No Treatment,148,148.0
+250,No Treatment,119,120.0
+251,Placebo,109,105.0
+252,Placebo,97,92.0
+253,No Treatment,92,92.0
+254,Placebo,96,95.0
+255,Placebo,124,119.0
+256,No Treatment,127,126.0
+257,No Treatment,96,99.0
+258,No Treatment,133,132.0
+259,No Treatment,112,112.0
+260,Placebo,122,114.0
+261,No Treatment,144,145.0
+262,No Treatment,133,130.0
+263,Placebo,115,109.0
+264,No Treatment,106,106.0
+265,No Treatment,87,85.0
+266,No Treatment,109,110.0
+267,No Treatment,116,115.0
+268,No Treatment,105,106.0
+269,Placebo,118,114.0
+270,Placebo,121,120.0
+271,No Treatment,116,118.0
+272,No Treatment,110,111.0
+273,No Treatment,122,122.0
+274,No Treatment,126,126.0
+275,No Treatment,103,102.0
+276,No Treatment,141,143.0
+277,No Treatment,118,117.0
+278,No Treatment,120,118.0
+279,No Treatment,130,131.0
+280,No Treatment,123,122.0
+281,No Treatment,134,133.0
+282,Placebo,124,121.0
+283,Placebo,110,103.0
+284,Placebo,125,127.0
+285,No Treatment,102,100.0
+286,Placebo,121,117.0
+287,Placebo,119,118.0
+288,No Treatment,116,116.0
+289,Placebo,118,113.0
+290,No Treatment,91,91.0
+291,Placebo,111,108.0
+292,Placebo,121,119.0
+293,No Treatment,122,122.0
+294,Placebo,104,103.0
+295,Placebo,138,137.0
+296,No Treatment,107,108.0
+297,No Treatment,134,135.0
+298,Placebo,126,124.0
+299,No Treatment,110,110.0
+300,Placebo,146,141.0
+301,Placebo,102,96.0
+302,No Treatment,133,133.0
+303,No Treatment,135,136.0
+304,No Treatment,109,111.0
+305,No Treatment,140,140.0
+306,No Treatment,116,116.0
+307,No Treatment,124,123.0
+308,Placebo,123,119.0
+309,No Treatment,117,115.0
+310,Placebo,132,130.0
+311,Placebo,131,126.0
+312,Placebo,93,92.0
+313,Placebo,139,139.0
+314,No Treatment,95,96.0
+315,No Treatment,135,136.0
+316,No Treatment,136,137.0
+317,Placebo,103,96.0
+318,Placebo,113,106.0
+319,Placebo,103,98.0
+320,Placebo,116,112.0
+321,No Treatment,115,115.0
+322,No Treatment,131,133.0
+323,No Treatment,139,139.0
+324,Placebo,140,134.0
+325,No Treatment,111,112.0
+326,No Treatment,116,116.0
+327,No Treatment,94,93.0
+328,No Treatment,107,108.0
+329,Placebo,134,134.0
+330,Placebo,144,141.0
+331,Placebo,101,97.0
+332,No Treatment,111,111.0
+333,Placebo,119,110.0
+334,Placebo,124,116.0
+335,Placebo,107,103.0
+336,Placebo,126,115.0
+337,No Treatment,112,112.0
+338,No Treatment,119,119.0
+339,Placebo,128,127.0
+340,Placebo,120,115.0
+341,Placebo,113,117.0
+342,Placebo,118,119.0
+343,Placebo,118,113.0
+344,Placebo,114,109.0
+345,Placebo,116,114.0
+346,No Treatment,143,143.0
+347,No Treatment,128,132.0
+348,Placebo,115,115.0
+349,Placebo,130,121.0
+350,No Treatment,114,116.0
+351,No Treatment,137,138.0
+352,No Treatment,125,125.0
+353,No Treatment,118,120.0
+354,Placebo,126,116.0
+355,Placebo,96,90.0
+356,No Treatment,103,104.0
+357,Placebo,102,99.0
+358,No Treatment,122,122.0
+359,No Treatment,145,145.0
+360,No Treatment,153,153.0
+361,Placebo,129,126.0
+362,No Treatment,127,121.0
+363,Placebo,92,91.0
+364,No Treatment,111,111.0
+365,No Treatment,108,108.0
+366,Placebo,110,102.0
+367,No Treatment,117,120.0
+368,No Treatment,112,112.0
+369,Placebo,90,79.0
+370,Placebo,131,129.0
+371,Placebo,103,96.0
+372,Placebo,123,112.0
+373,Placebo,151,147.0
+374,No Treatment,106,104.0
+375,Placebo,82,80.0
+376,Placebo,115,110.0
+377,No Treatment,136,136.0
+378,Placebo,149,143.0
+379,No Treatment,101,99.0
+380,Placebo,127,122.0
+381,Placebo,113,107.0
+382,No Treatment,118,118.0
+383,No Treatment,159,159.0
+384,No Treatment,97,98.0
+385,No Treatment,123,122.0
+386,No Treatment,127,127.0
+387,Placebo,136,127.0
+388,Placebo,121,114.0
+389,No Treatment,124,122.0
+390,No Treatment,114,115.0
+391,No Treatment,124,125.0
+392,Placebo,114,111.0
+393,Placebo,129,125.0
+394,No Treatment,114,114.0
+395,Placebo,125,121.0
+396,No Treatment,119,119.0
+397,No Treatment,136,136.0
+398,Placebo,119,112.0
+399,No Treatment,93,96.0
+400,No Treatment,138,138.0
+401,Placebo,106,101.0
+402,No Treatment,110,110.0
+403,No Treatment,111,109.0
+404,No Treatment,140,139.0
+405,Placebo,87,76.0
+406,No Treatment,167,167.0
+407,Placebo,135,131.0
+408,Placebo,123,123.0
+409,No Treatment,119,121.0
+410,Placebo,124,115.0
+411,Placebo,127,121.0
+412,No Treatment,129,129.0
+413,No Treatment,128,128.0
+414,No Treatment,121,121.0
+415,No Treatment,117,116.0
+416,Placebo,117,113.0
+417,Placebo,117,116.0
+418,Placebo,137,131.0
+419,No Treatment,128,128.0
+420,No Treatment,75,73.0
+421,No Treatment,129,131.0
+422,No Treatment,122,121.0
+423,Placebo,119,112.0
+424,Placebo,114,104.0
+425,Placebo,136,132.0
+426,No Treatment,134,135.0
+427,Placebo,108,109.0
+428,No Treatment,126,124.0
+429,Placebo,105,101.0
+430,Placebo,99,94.0
+431,Placebo,110,106.0
+432,No Treatment,132,133.0
+433,No Treatment,134,135.0
+434,Placebo,127,122.0
+435,Placebo,130,123.0
+436,No Treatment,127,127.0
+437,Placebo,110,108.0
+438,No Treatment,126,125.0
+439,No Treatment,132,132.0
+440,Placebo,131,127.0
+441,Placebo,137,133.0
+442,No Treatment,130,128.0
+443,Placebo,125,118.0
+444,Placebo,136,135.0
+445,No Treatment,119,119.0
+446,No Treatment,106,108.0
+447,No Treatment,117,118.0
+448,No Treatment,108,108.0
+449,Placebo,109,106.0
+450,Placebo,117,111.0
+451,No Treatment,108,107.0
+452,No Treatment,115,116.0
+453,Placebo,91,90.0
+454,No Treatment,123,123.0
+455,Placebo,120,114.0
+456,Placebo,107,100.0
+457,Placebo,129,122.0
+458,Placebo,134,124.0
+459,Placebo,95,92.0
+460,Placebo,108,98.0
+461,Placebo,108,100.0
+462,No Treatment,105,101.0
+463,No Treatment,132,133.0
+464,No Treatment,117,117.0
+465,No Treatment,116,118.0
+466,Placebo,89,78.0
+467,Placebo,129,124.0
+468,No Treatment,101,99.0
+469,Placebo,120,115.0
+470,No Treatment,124,118.0
+471,Placebo,140,135.0
+472,No Treatment,100,100.0
+473,Placebo,74,66.0
+474,No Treatment,122,122.0
+475,No Treatment,147,144.0
+476,No Treatment,138,137.0
+477,Placebo,123,115.0
+478,No Treatment,112,117.0
+479,No Treatment,132,132.0
+480,No Treatment,105,106.0
+481,No Treatment,127,126.0
+482,No Treatment,127,123.0
+483,Placebo,135,132.0
+484,No Treatment,161,161.0
+485,No Treatment,125,125.0
+486,No Treatment,112,112.0
+487,Placebo,119,113.0
+488,Placebo,93,89.0
+489,No Treatment,109,109.0
+490,No Treatment,113,113.0
+491,Placebo,112,105.0
+492,No Treatment,122,122.0
+493,Placebo,107,103.0
+494,Placebo,136,135.0
+495,Placebo,120,117.0
+496,Placebo,119,113.0
+497,No Treatment,115,113.0
+498,Placebo,122,118.0
+499,No Treatment,132,132.0
+500,No Treatment,106,103.0
+501,No Treatment,110,106.0
+502,No Treatment,115,116.0
+503,Placebo,99,94.0
+504,No Treatment,107,108.0
+505,No Treatment,112,112.0
+506,Placebo,133,129.0
+507,No Treatment,123,121.0
+508,No Treatment,122,121.0
+509,No Treatment,132,132.0
+510,No Treatment,117,114.0
+511,No Treatment,125,124.0
+512,Placebo,118,113.0
+513,No Treatment,123,124.0
+514,No Treatment,111,113.0
+515,Placebo,83,78.0
+516,Placebo,117,113.0
+517,Placebo,141,134.0
+518,No Treatment,133,133.0
+519,No Treatment,134,135.0
+520,Placebo,138,130.0
+521,No Treatment,121,118.0
+522,Placebo,122,113.0
+523,No Treatment,110,111.0
+524,No Treatment,115,114.0
+525,No Treatment,129,129.0
+526,Placebo,138,129.0
+527,Placebo,117,109.0
+528,Placebo,113,109.0
+529,Placebo,120,113.0
+530,No Treatment,129,129.0
+531,No Treatment,98,100.0
+532,No Treatment,85,84.0
+533,No Treatment,111,112.0
+534,No Treatment,101,101.0
+535,No Treatment,112,112.0
+536,No Treatment,117,117.0
+537,No Treatment,113,112.0
+538,Placebo,141,138.0
+539,Placebo,124,120.0
+540,Placebo,124,114.0
+541,No Treatment,129,129.0
+542,No Treatment,102,102.0
+543,Placebo,135,132.0
+544,No Treatment,118,118.0
+545,No Treatment,130,130.0
+546,Placebo,103,101.0
+547,Placebo,96,89.0
+548,No Treatment,132,133.0
+549,No Treatment,125,126.0
+550,No Treatment,106,104.0
+551,No Treatment,106,107.0
+552,No Treatment,136,134.0
+553,No Treatment,102,103.0
+554,No Treatment,144,145.0
+555,No Treatment,106,103.0
+556,Placebo,129,126.0
+557,Placebo,115,108.0
+558,Placebo,129,125.0
+559,No Treatment,111,111.0
+560,No Treatment,117,117.0
+561,No Treatment,120,119.0
+562,Placebo,104,96.0
+563,Placebo,131,121.0
+564,Placebo,112,106.0
+565,Placebo,116,111.0
+566,No Treatment,105,107.0
+567,Placebo,81,75.0
+568,Placebo,117,109.0
+569,No Treatment,156,155.0
+570,Placebo,131,125.0
+571,No Treatment,119,118.0
+572,No Treatment,116,116.0
+573,Placebo,120,116.0
+574,No Treatment,128,129.0
+575,No Treatment,102,102.0
+576,No Treatment,136,138.0
+577,Placebo,130,125.0
+578,No Treatment,130,131.0
+579,Placebo,126,122.0
+580,Placebo,120,113.0
+581,Placebo,130,129.0
+582,No Treatment,128,124.0
+583,Placebo,114,106.0
+584,Placebo,111,108.0
+585,No Treatment,121,120.0
+586,Placebo,143,142.0
+587,Placebo,101,98.0
+588,Placebo,97,92.0
+589,Placebo,122,116.0
+590,Placebo,120,119.0
+591,Placebo,122,113.0
+592,No Treatment,123,122.0
+593,Placebo,116,109.0
+594,Placebo,142,136.0
+595,No Treatment,95,95.0
+596,Placebo,107,106.0
+597,No Treatment,118,113.0
+598,Placebo,95,92.0
+599,Placebo,117,110.0
+600,Placebo,144,139.0
+601,Placebo,120,114.0
+602,Placebo,123,116.0
+603,Placebo,101,99.0
+604,Placebo,110,101.0
+605,Placebo,114,114.0
+606,Placebo,115,113.0
+607,Placebo,139,138.0
+608,Placebo,128,122.0
+609,No Treatment,103,108.0
+610,No Treatment,123,124.0
+611,Placebo,127,122.0
+612,No Treatment,137,137.0
+613,No Treatment,143,145.0
+614,Placebo,104,95.0
+615,No Treatment,107,111.0
+616,No Treatment,101,102.0
+617,Placebo,116,110.0
+618,Placebo,126,123.0
+619,No Treatment,134,135.0
+620,No Treatment,118,118.0
+621,Placebo,115,114.0
+622,Placebo,122,114.0
+623,Placebo,107,101.0
+624,Placebo,151,146.0
+625,No Treatment,95,95.0
+626,Placebo,122,113.0
+627,Placebo,150,147.0
+628,No Treatment,120,120.0
+629,Placebo,117,110.0
+630,Placebo,114,109.0
+631,No Treatment,117,116.0
+632,No Treatment,140,139.0
+633,No Treatment,86,84.0
+634,No Treatment,143,143.0
+635,Placebo,98,92.0
+636,Placebo,116,109.0
+637,No Treatment,113,110.0
+638,Placebo,128,123.0
+639,Placebo,96,91.0
+640,Placebo,126,120.0
+641,Placebo,150,143.0
+642,Placebo,99,95.0
+643,Placebo,122,122.0
+644,Placebo,110,106.0
+645,Placebo,126,124.0
+646,No Treatment,120,120.0
+647,No Treatment,110,110.0
+648,No Treatment,127,127.0
+649,No Treatment,147,146.0
+650,Placebo,117,108.0
+651,Placebo,130,126.0
+652,No Treatment,100,106.0
+653,No Treatment,105,107.0
+654,No Treatment,127,125.0
+655,Placebo,142,134.0
+656,Placebo,125,116.0
+657,Placebo,115,108.0
+658,Placebo,119,118.0
+659,No Treatment,101,101.0
+660,No Treatment,129,128.0
+661,Placebo,133,131.0
+662,No Treatment,113,111.0
+663,No Treatment,112,110.0
+664,Placebo,123,119.0
+665,Placebo,113,104.0
+666,Placebo,119,114.0
+667,Placebo,151,147.0
+668,Placebo,116,112.0
+669,Placebo,114,104.0
+670,Placebo,110,103.0
+671,Placebo,131,126.0
+672,No Treatment,117,117.0
+673,Placebo,110,107.0
+674,No Treatment,139,138.0
+675,Placebo,141,130.0
+676,No Treatment,110,111.0
+677,Placebo,92,87.0
+678,Placebo,135,131.0
+679,No Treatment,109,110.0
+680,No Treatment,131,133.0
+681,No Treatment,90,89.0
+682,Placebo,133,131.0
+683,Placebo,101,99.0
+684,No Treatment,130,130.0
+685,No Treatment,120,121.0
+686,No Treatment,105,105.0
+687,No Treatment,113,112.0
+688,Placebo,130,127.0
+689,No Treatment,121,124.0
+690,Placebo,128,121.0
+691,Placebo,149,139.0
+692,Placebo,96,90.0
+693,No Treatment,144,144.0
+694,Placebo,121,120.0
+695,Placebo,106,106.0
+696,No Treatment,100,101.0
+697,Placebo,117,115.0
+698,No Treatment,133,132.0
+699,Placebo,118,115.0
+700,Placebo,142,139.0
+701,No Treatment,98,96.0
+702,Placebo,119,113.0
+703,Placebo,101,96.0
+704,Placebo,125,125.0
+705,Placebo,133,126.0
+706,No Treatment,113,112.0
+707,Placebo,80,80.0
+708,No Treatment,122,122.0
+709,Placebo,126,121.0
+710,No Treatment,126,124.0
+711,No Treatment,138,138.0
+712,No Treatment,103,100.0
+713,Placebo,130,129.0
+714,Placebo,137,128.0
+715,Placebo,93,90.0
+716,No Treatment,124,122.0
+717,No Treatment,112,113.0
+718,No Treatment,118,119.0
+719,Placebo,125,118.0
+720,No Treatment,112,112.0
+721,No Treatment,109,107.0
+722,Placebo,120,111.0
+723,Placebo,103,99.0
+724,No Treatment,103,101.0
+725,No Treatment,130,130.0
+726,No Treatment,102,103.0
+727,Placebo,129,128.0
+728,No Treatment,126,127.0
+729,Placebo,94,87.0
+730,Placebo,109,100.0
+731,Placebo,137,132.0
+732,No Treatment,105,105.0
+733,No Treatment,113,111.0
+734,No Treatment,126,126.0
+735,Placebo,131,126.0
+736,No Treatment,116,115.0
+737,Placebo,111,108.0
+738,No Treatment,141,140.0
+739,Placebo,146,144.0
+740,Placebo,134,129.0
+741,Placebo,121,121.0
+742,Placebo,107,103.0
+743,No Treatment,107,109.0
+744,No Treatment,127,128.0
+745,Placebo,126,120.0
+746,No Treatment,141,141.0
+747,Placebo,129,120.0
+748,No Treatment,97,95.0
+749,No Treatment,135,135.0
+750,No Treatment,105,107.0
+751,Placebo,114,109.0
+752,No Treatment,123,123.0
+753,No Treatment,149,151.0
+754,Placebo,166,160.0
+755,Placebo,129,127.0
+756,No Treatment,117,119.0
+757,No Treatment,128,131.0
+758,No Treatment,133,133.0
+759,No Treatment,115,116.0
+760,No Treatment,146,148.0
+761,Placebo,123,120.0
+762,Placebo,127,119.0
+763,Placebo,129,125.0
+764,No Treatment,126,126.0
+765,Placebo,132,130.0
+766,No Treatment,110,109.0
+767,No Treatment,111,111.0
+768,No Treatment,103,103.0
+769,Placebo,126,126.0
+770,No Treatment,131,129.0
+771,Placebo,126,124.0
+772,No Treatment,145,145.0
+773,Placebo,119,117.0
+774,Placebo,130,126.0
+775,No Treatment,103,105.0
+776,Placebo,114,111.0
+777,Placebo,130,129.0
+778,No Treatment,132,128.0
+779,No Treatment,115,118.0
+780,No Treatment,118,120.0
+781,No Treatment,97,97.0
+782,No Treatment,114,115.0
+783,Placebo,133,125.0
+784,Placebo,128,122.0
+785,Placebo,127,120.0
+786,No Treatment,120,120.0
+787,No Treatment,120,122.0
+788,Placebo,110,107.0
+789,Placebo,130,129.0
+790,No Treatment,126,127.0
+791,Placebo,127,121.0
+792,No Treatment,112,110.0
+793,No Treatment,87,88.0
+794,No Treatment,136,136.0
+795,Placebo,112,100.0
+796,No Treatment,107,107.0
+797,No Treatment,130,129.0
+798,No Treatment,114,117.0
+799,No Treatment,135,137.0
+800,No Treatment,129,128.0
+801,No Treatment,130,128.0
+802,Placebo,99,93.0
+803,No Treatment,138,138.0
+804,No Treatment,123,123.0
+805,Placebo,114,112.0
+806,No Treatment,122,122.0
+807,No Treatment,93,95.0
+808,No Treatment,126,127.0
+809,Placebo,104,101.0
+810,Placebo,99,96.0
+811,No Treatment,97,98.0
+812,No Treatment,136,136.0
+813,Placebo,110,105.0
+814,No Treatment,143,141.0
+815,No Treatment,111,111.0
+816,No Treatment,94,96.0
+817,No Treatment,103,103.0
+818,Placebo,138,130.0
+819,Placebo,117,114.0
+820,Placebo,111,104.0
+821,No Treatment,122,123.0
+822,Placebo,127,128.0
+823,Placebo,136,133.0
+824,Placebo,141,135.0
+825,No Treatment,114,114.0
+826,No Treatment,100,98.0
+827,Placebo,113,107.0
+828,Placebo,123,118.0
+829,No Treatment,105,105.0
+830,Placebo,105,100.0
+831,Placebo,125,124.0
+832,Placebo,119,115.0
+833,Placebo,120,113.0
+834,Placebo,108,108.0
+835,Placebo,116,112.0
+836,Placebo,106,104.0
+837,No Treatment,133,133.0
+838,Placebo,135,129.0
+839,No Treatment,92,91.0
+840,No Treatment,106,106.0
+841,Placebo,97,94.0
+842,No Treatment,110,109.0
+843,Placebo,118,114.0
+844,No Treatment,98,100.0
+845,Placebo,106,96.0
+846,Placebo,104,105.0
+847,Placebo,123,122.0
+848,No Treatment,121,121.0
+849,No Treatment,109,111.0
+850,No Treatment,122,125.0
+851,Placebo,111,105.0
+852,No Treatment,115,115.0
+853,Placebo,145,137.0
+854,No Treatment,140,138.0
+855,Placebo,100,97.0
+856,Placebo,132,128.0
+857,Placebo,132,129.0
+858,Placebo,102,98.0
+859,No Treatment,132,128.0
+860,Placebo,143,140.0
+861,No Treatment,103,101.0
+862,Placebo,106,106.0
+863,No Treatment,135,133.0
+864,Placebo,124,121.0
+865,Placebo,128,120.0
+866,No Treatment,125,127.0
+867,Placebo,125,125.0
+868,Placebo,100,100.0
+869,No Treatment,135,135.0
+870,No Treatment,137,137.0
+871,Placebo,116,120.0
+872,Placebo,119,111.0
+873,No Treatment,97,93.0
+874,Placebo,127,123.0
+875,Placebo,128,117.0
+876,Placebo,119,116.0
+877,No Treatment,136,134.0
+878,No Treatment,114,115.0
+879,Placebo,128,122.0
+880,Placebo,104,104.0
+881,Placebo,119,112.0
+882,No Treatment,117,117.0
+883,Placebo,123,113.0
+884,Placebo,114,108.0
+885,No Treatment,118,118.0
+886,Placebo,132,122.0
+887,No Treatment,113,114.0
+888,Placebo,95,93.0
+889,Placebo,146,135.0
+890,Placebo,140,136.0
+891,No Treatment,100,103.0
+892,No Treatment,130,130.0
+893,No Treatment,112,112.0
+894,Placebo,123,112.0
+895,No Treatment,124,124.0
+896,Placebo,116,111.0
+897,Placebo,108,108.0
+898,No Treatment,109,113.0
+899,Placebo,106,103.0
+900,Placebo,107,100.0
+901,Placebo,118,113.0
+902,Placebo,109,105.0
+903,Placebo,130,127.0
+904,No Treatment,142,138.0
+905,Placebo,111,102.0
+906,No Treatment,123,124.0
+907,No Treatment,127,127.0
+908,Placebo,127,124.0
+909,Placebo,121,108.0
+910,Placebo,131,125.0
+911,No Treatment,127,128.0
+912,Placebo,101,95.0
+913,No Treatment,133,132.0
+914,Placebo,133,130.0
+915,No Treatment,108,108.0
+916,Placebo,120,116.0
+917,Placebo,130,121.0
+918,No Treatment,116,117.0
+919,No Treatment,136,142.0
+920,Placebo,155,148.0
+921,No Treatment,108,109.0
+922,Placebo,99,95.0
+923,No Treatment,124,123.0
+924,No Treatment,130,130.0
+925,Placebo,116,111.0
+926,Placebo,141,135.0
+927,Placebo,99,93.0
+928,No Treatment,130,130.0
+929,No Treatment,110,107.0
+930,Placebo,145,143.0
+931,Placebo,149,143.0
+932,No Treatment,108,108.0
+933,No Treatment,111,112.0
+934,No Treatment,132,130.0
+935,Placebo,114,109.0
+936,Placebo,119,120.0
+937,Placebo,120,111.0
+938,No Treatment,91,93.0
+939,Placebo,119,109.0
+940,No Treatment,109,109.0
+941,Placebo,112,110.0
+942,No Treatment,141,140.0
+943,No Treatment,101,101.0
+944,No Treatment,132,135.0
+945,Placebo,115,108.0
+946,Placebo,115,110.0
+947,Placebo,131,124.0
+948,No Treatment,125,126.0
+949,No Treatment,128,128.0
+950,No Treatment,134,134.0
+951,No Treatment,115,115.0
+952,No Treatment,110,109.0
+953,Placebo,103,98.0
+954,No Treatment,107,103.0
+955,Placebo,164,164.0
+956,Placebo,138,136.0
+957,No Treatment,99,103.0
+958,Placebo,100,98.0
+959,Placebo,127,118.0
+960,No Treatment,128,128.0
+961,Placebo,128,120.0
+962,No Treatment,116,116.0
+963,Placebo,118,105.0
+964,Placebo,124,117.0
+965,Placebo,121,119.0
+966,Placebo,86,83.0
+967,No Treatment,116,116.0
+968,Placebo,107,102.0
+969,No Treatment,122,121.0
+970,Placebo,164,159.0
+971,No Treatment,125,125.0
+972,No Treatment,115,112.0
+973,No Treatment,133,137.0
+974,Placebo,127,120.0
+975,Placebo,126,122.0
+976,Placebo,129,127.0
+977,No Treatment,150,148.0
+978,Placebo,103,94.0
+979,Placebo,127,123.0
+980,No Treatment,106,104.0
+981,Placebo,128,126.0
+982,No Treatment,106,106.0
+983,Placebo,113,107.0
+984,Placebo,115,113.0
+985,No Treatment,134,136.0
+986,Placebo,133,136.0
+987,No Treatment,101,101.0
+988,Placebo,120,115.0
+989,Placebo,109,106.0
+990,No Treatment,101,99.0
+991,No Treatment,116,118.0
+992,No Treatment,115,116.0
+993,Placebo,156,149.0
+994,No Treatment,126,127.0
+995,Placebo,99,95.0
+996,Placebo,111,108.0
+997,No Treatment,135,136.0
+998,Placebo,151,147.0
+999,No Treatment,96,100.0
+1000,Placebo,91,83.0
+1001,Placebo,148,144.0
+1002,No Treatment,125,129.0
+1003,No Treatment,106,105.0
+1004,No Treatment,128,131.0
+1005,No Treatment,80,80.0
+1006,No Treatment,120,120.0
+1007,No Treatment,124,121.0
+1008,No Treatment,133,133.0
+1009,Placebo,104,104.0
+1010,Placebo,121,118.0
+1011,Placebo,106,104.0
+1012,No Treatment,123,122.0
+1013,No Treatment,106,107.0
+1014,Placebo,113,108.0
+1015,No Treatment,105,107.0
+1016,No Treatment,129,125.0
+1017,Placebo,132,130.0
+1018,No Treatment,116,116.0
+1019,No Treatment,120,122.0
+1020,Placebo,98,94.0
+1021,No Treatment,115,115.0
+1022,Placebo,119,112.0
+1023,No Treatment,159,160.0
+1024,No Treatment,103,103.0
+1025,No Treatment,141,141.0
+1026,Placebo,134,130.0
+1027,No Treatment,124,124.0
+1028,No Treatment,146,144.0
+1029,Placebo,125,118.0
+1030,No Treatment,125,123.0
+1031,Placebo,119,113.0
+1032,No Treatment,138,139.0
+1033,Placebo,136,132.0
+1034,Placebo,110,106.0
+1035,Placebo,100,92.0
+1036,No Treatment,116,116.0
+1037,Placebo,107,106.0
+1038,No Treatment,119,119.0
+1039,Placebo,138,135.0
+1040,Placebo,113,106.0
+1041,No Treatment,119,119.0
+1042,No Treatment,120,120.0
+1043,Placebo,132,123.0
+1044,No Treatment,86,88.0
+1045,No Treatment,110,110.0
+1046,No Treatment,123,121.0
+1047,Placebo,138,133.0
+1048,Placebo,112,106.0
+1049,No Treatment,91,92.0
+1050,Placebo,129,125.0
+1051,No Treatment,110,110.0
+1052,No Treatment,102,102.0
+1053,No Treatment,110,113.0
+1054,No Treatment,117,117.0
+1055,No Treatment,110,110.0
+1056,Placebo,86,80.0
+1057,No Treatment,133,131.0
+1058,Placebo,139,128.0
+1059,Placebo,129,123.0
+1060,No Treatment,102,102.0
+1061,No Treatment,116,117.0
+1062,No Treatment,119,116.0
+1063,No Treatment,128,128.0
+1064,Placebo,130,125.0
+1065,Placebo,108,105.0
+1066,No Treatment,121,121.0
+1067,Placebo,126,119.0
+1068,Placebo,141,141.0
+1069,Placebo,130,120.0
+1070,Placebo,131,130.0
+1071,Placebo,121,116.0
+1072,Placebo,141,139.0
+1073,Placebo,126,122.0
+1074,Placebo,107,106.0
+1075,No Treatment,141,141.0
+1076,Placebo,130,124.0
+1077,Placebo,113,105.0
+1078,No Treatment,112,114.0
+1079,Placebo,124,124.0
+1080,No Treatment,126,126.0
+1081,No Treatment,122,124.0
+1082,Placebo,124,119.0
+1083,Placebo,145,141.0
+1084,No Treatment,136,135.0
+1085,No Treatment,122,122.0
+1086,Placebo,134,133.0
+1087,No Treatment,104,104.0
+1088,Placebo,125,117.0
+1089,No Treatment,147,145.0
+1090,Placebo,116,113.0
+1091,No Treatment,107,108.0
+1092,No Treatment,110,114.0
+1093,No Treatment,103,103.0
+1094,No Treatment,108,109.0
+1095,Placebo,114,108.0
+1096,Placebo,98,93.0
+1097,Placebo,120,116.0
+1098,Placebo,133,124.0
+1099,No Treatment,106,106.0
+1100,Placebo,142,135.0
+1101,Placebo,127,127.0
+1102,No Treatment,135,134.0
+1103,No Treatment,110,107.0
+1104,No Treatment,132,131.0
+1105,No Treatment,103,101.0
+1106,Placebo,133,131.0
+1107,Placebo,122,117.0
+1108,No Treatment,128,131.0
+1109,No Treatment,102,102.0
+1110,Placebo,106,102.0
+1111,No Treatment,128,128.0
+1112,Placebo,105,100.0
+1113,Placebo,126,126.0
+1114,No Treatment,99,100.0
+1115,No Treatment,132,130.0
+1116,No Treatment,101,100.0
+1117,Placebo,128,123.0
+1118,No Treatment,129,129.0
+1119,Placebo,109,105.0
+1120,Placebo,128,127.0
+1121,No Treatment,123,125.0
+1122,No Treatment,111,112.0
+1123,No Treatment,104,104.0
+1124,No Treatment,90,90.0
+1125,No Treatment,125,125.0
+1126,No Treatment,96,96.0
+1127,Placebo,121,114.0
+1128,Placebo,116,116.0
+1129,Placebo,130,121.0
+1130,Placebo,115,115.0
+1131,No Treatment,115,113.0
+1132,Placebo,130,124.0
+1133,Placebo,125,120.0
+1134,Placebo,124,114.0
+1135,No Treatment,127,127.0
+1136,Placebo,96,90.0
+1137,No Treatment,131,129.0
+1138,Placebo,129,121.0
+1139,Placebo,104,98.0
+1140,No Treatment,116,116.0
+1141,No Treatment,119,119.0
+1142,Placebo,117,112.0
+1143,No Treatment,125,130.0
+1144,No Treatment,141,141.0
+1145,Placebo,136,134.0
+1146,No Treatment,100,98.0
+1147,No Treatment,129,129.0
+1148,No Treatment,139,140.0
+1149,No Treatment,125,128.0
+1150,No Treatment,136,135.0
+1151,No Treatment,150,147.0
+1152,No Treatment,135,136.0
+1153,No Treatment,123,121.0
+1154,No Treatment,135,135.0
+1155,No Treatment,122,122.0
+1156,No Treatment,120,120.0
+1157,Placebo,114,110.0
+1158,No Treatment,143,144.0
+1159,No Treatment,107,106.0
+1160,Placebo,142,138.0
+1161,No Treatment,127,127.0
+1162,Placebo,99,91.0
+1163,Placebo,125,118.0
+1164,No Treatment,88,88.0
+1165,Placebo,129,129.0
+1166,No Treatment,133,133.0
+1167,No Treatment,111,111.0
+1168,No Treatment,121,121.0
+1169,Placebo,149,142.0
+1170,Placebo,112,112.0
+1171,No Treatment,104,105.0
+1172,No Treatment,142,142.0
+1173,No Treatment,149,149.0
+1174,Placebo,120,115.0
+1175,No Treatment,135,132.0
+1176,No Treatment,140,140.0
+1177,No Treatment,108,108.0
+1178,Placebo,112,108.0
+1179,No Treatment,138,139.0
+1180,No Treatment,145,144.0
+1181,No Treatment,128,127.0
+1182,Placebo,106,105.0
+1183,No Treatment,149,148.0
+1184,No Treatment,112,113.0
+1185,Placebo,114,113.0
+1186,No Treatment,125,127.0
+1187,No Treatment,143,143.0
+1188,Placebo,132,127.0
+1189,Placebo,126,120.0
+1190,No Treatment,126,127.0
+1191,Placebo,120,115.0
+1192,No Treatment,128,128.0
+1193,Placebo,82,79.0
+1194,No Treatment,115,115.0
+1195,Placebo,123,121.0
+1196,No Treatment,102,102.0
+1197,No Treatment,125,126.0
+1198,No Treatment,116,116.0
+1199,No Treatment,146,150.0
+1200,Placebo,143,139.0
+1201,No Treatment,113,112.0
+1202,Placebo,117,114.0
+1203,Placebo,118,118.0
+1204,Placebo,113,110.0
+1205,Placebo,122,118.0
+1206,No Treatment,108,109.0
+1207,No Treatment,103,102.0
+1208,Placebo,129,120.0
+1209,Placebo,129,117.0
+1210,No Treatment,107,106.0
+1211,Placebo,133,130.0
+1212,Placebo,110,105.0
+1213,Placebo,123,117.0
+1214,No Treatment,132,132.0
+1215,No Treatment,119,119.0
+1216,Placebo,126,122.0
+1217,Placebo,112,107.0
+1218,No Treatment,117,122.0
+1219,No Treatment,116,116.0
+1220,Placebo,108,107.0
+1221,No Treatment,117,115.0
+1222,Placebo,96,92.0
+1223,Placebo,112,105.0
+1224,No Treatment,115,115.0
+1225,Placebo,116,114.0
+1226,No Treatment,116,112.0
+1227,Placebo,119,114.0
+1228,Placebo,127,124.0
+1229,No Treatment,133,133.0
+1230,Placebo,110,104.0
+1231,No Treatment,101,101.0
+1232,Placebo,104,98.0
+1233,Placebo,112,108.0
+1234,Placebo,114,110.0
+1235,No Treatment,108,109.0
+1236,Placebo,100,97.0
+1237,No Treatment,113,114.0
+1238,Placebo,122,117.0
+1239,No Treatment,128,127.0
+1240,Placebo,111,101.0
+1241,No Treatment,113,113.0
+1242,No Treatment,106,105.0
+1243,No Treatment,119,117.0
+1244,No Treatment,107,107.0
+1245,No Treatment,128,126.0
+1246,No Treatment,93,93.0
+1247,Placebo,114,108.0
+1248,Placebo,124,122.0
+1249,No Treatment,122,121.0
+1250,No Treatment,160,161.0
+1251,No Treatment,125,128.0
+1252,Placebo,104,99.0
+1253,Placebo,118,113.0
+1254,Placebo,93,91.0
+1255,No Treatment,118,116.0
+1256,Placebo,107,100.0
+1257,Placebo,133,124.0
+1258,Placebo,111,106.0
+1259,Placebo,118,112.0
+1260,No Treatment,110,107.0
+1261,Placebo,146,139.0
+1262,No Treatment,115,115.0
+1263,Placebo,147,142.0
+1264,Placebo,132,129.0
+1265,Placebo,127,122.0
+1266,Placebo,125,121.0
+1267,Placebo,125,125.0
+1268,Placebo,91,85.0
+1269,No Treatment,115,115.0
+1270,Placebo,132,128.0
+1271,No Treatment,119,119.0
+1272,No Treatment,98,98.0
+1273,No Treatment,119,119.0
+1274,Placebo,145,139.0
+1275,Placebo,138,131.0
+1276,Placebo,119,113.0
+1277,Placebo,134,128.0
+1278,No Treatment,114,114.0
+1279,Placebo,94,91.0
+1280,Placebo,106,108.0
+1281,No Treatment,143,145.0
+1282,No Treatment,115,112.0
+1283,No Treatment,116,116.0
+1284,Placebo,115,108.0
+1285,Placebo,148,142.0
+1286,No Treatment,144,144.0
+1287,Placebo,153,148.0
+1288,Placebo,117,114.0
+1289,Placebo,124,120.0
+1290,Placebo,97,96.0
+1291,Placebo,142,130.0
+1292,Placebo,102,90.0
+1293,No Treatment,123,122.0
+1294,No Treatment,103,106.0
+1295,No Treatment,111,110.0
+1296,Placebo,107,101.0
+1297,Placebo,110,109.0
+1298,Placebo,111,102.0
+1299,No Treatment,111,111.0
+1300,No Treatment,132,133.0
+1301,Placebo,103,89.0
+1302,No Treatment,123,122.0
+1303,Placebo,138,135.0
+1304,No Treatment,112,109.0
+1305,No Treatment,109,109.0
+1306,No Treatment,116,118.0
+1307,No Treatment,137,137.0
+1308,No Treatment,122,121.0
+1309,Placebo,112,108.0
+1310,No Treatment,127,128.0
+1311,Placebo,103,95.0
+1312,No Treatment,130,130.0
+1313,No Treatment,126,125.0
+1314,No Treatment,115,115.0
+1315,Placebo,107,100.0
+1316,No Treatment,106,107.0
+1317,No Treatment,128,132.0
+1318,No Treatment,138,139.0
+1319,Placebo,110,103.0
+1320,Placebo,126,122.0
+1321,Placebo,88,82.0
+1322,Placebo,111,108.0
+1323,No Treatment,119,121.0
+1324,Placebo,106,93.0
+1325,No Treatment,105,104.0
+1326,Placebo,109,102.0
+1327,Placebo,124,116.0
+1328,No Treatment,117,115.0
+1329,No Treatment,86,86.0
+1330,Placebo,88,83.0
+1331,No Treatment,110,110.0
+1332,No Treatment,126,124.0
+1333,Placebo,78,72.0
+1334,No Treatment,112,112.0
+1335,No Treatment,112,112.0
+1336,No Treatment,140,140.0
+1337,Placebo,114,112.0
+1338,No Treatment,125,126.0
+1339,Placebo,122,112.0
+1340,Placebo,88,84.0
+1341,Placebo,131,128.0
+1342,Placebo,123,123.0
+1343,No Treatment,127,127.0
+1344,No Treatment,178,177.0
+1345,No Treatment,88,87.0
+1346,Placebo,145,139.0
+1347,Placebo,115,111.0
+1348,Placebo,124,114.0
+1349,No Treatment,119,117.0
+1350,Placebo,113,101.0
+1351,No Treatment,111,114.0
+1352,No Treatment,124,124.0
+1353,Placebo,97,95.0
+1354,No Treatment,131,131.0
+1355,Placebo,113,108.0
+1356,No Treatment,103,102.0
+1357,No Treatment,113,118.0
+1358,Placebo,138,137.0
+1359,Placebo,111,102.0
+1360,No Treatment,125,123.0
+1361,No Treatment,109,109.0
+1362,Placebo,131,128.0
+1363,No Treatment,130,130.0
+1364,No Treatment,147,148.0
+1365,No Treatment,117,118.0
+1366,Placebo,130,130.0
+1367,No Treatment,121,124.0
+1368,No Treatment,139,140.0
+1369,Placebo,109,106.0
+1370,Placebo,131,127.0
+1371,No Treatment,117,115.0
+1372,Placebo,119,115.0
+1373,No Treatment,121,121.0
+1374,Placebo,123,114.0
+1375,Placebo,118,118.0
+1376,No Treatment,123,123.0
+1377,Placebo,143,137.0
+1378,No Treatment,134,138.0
+1379,Placebo,133,130.0
+1380,No Treatment,113,111.0
+1381,Placebo,106,97.0
+1382,Placebo,134,126.0
+1383,No Treatment,133,135.0
+1384,Placebo,142,142.0
+1385,No Treatment,110,110.0
+1386,Placebo,116,110.0
+1387,No Treatment,95,96.0
+1388,Placebo,114,114.0
+1389,No Treatment,134,134.0
+1390,Placebo,113,108.0
+1391,Placebo,129,119.0
+1392,Placebo,117,115.0
+1393,Placebo,124,118.0
+1394,No Treatment,102,101.0
+1395,Placebo,121,119.0
+1396,No Treatment,75,76.0
+1397,Placebo,117,113.0
+1398,Placebo,95,86.0
+1399,No Treatment,138,139.0
+1400,No Treatment,131,132.0
+1401,Placebo,127,123.0
+1402,Placebo,142,143.0
+1403,Placebo,105,102.0
+1404,No Treatment,146,146.0
+1405,No Treatment,133,132.0
+1406,Placebo,116,111.0
+1407,No Treatment,137,134.0
+1408,No Treatment,103,104.0
+1409,No Treatment,107,107.0
+1410,No Treatment,110,109.0
+1411,Placebo,112,111.0
+1412,Placebo,104,100.0
+1413,Placebo,138,134.0
+1414,Placebo,116,108.0
+1415,No Treatment,125,124.0
+1416,No Treatment,111,111.0
+1417,Placebo,92,88.0
+1418,Placebo,124,123.0
+1419,Placebo,91,84.0
+1420,No Treatment,118,116.0
+1421,Placebo,99,99.0
+1422,No Treatment,149,148.0
+1423,Placebo,133,128.0
+1424,Placebo,121,114.0
+1425,No Treatment,138,136.0
+1426,No Treatment,107,107.0
+1427,Placebo,128,126.0
+1428,No Treatment,122,121.0
+1429,No Treatment,123,120.0
+1430,No Treatment,139,143.0
+1431,Placebo,130,125.0
+1432,No Treatment,124,126.0
+1433,Placebo,95,93.0
+1434,No Treatment,105,104.0
+1435,Placebo,118,113.0
+1436,Placebo,121,116.0
+1437,Placebo,103,100.0
+1438,No Treatment,156,156.0
+1439,Placebo,142,138.0
+1440,No Treatment,129,129.0
+1441,No Treatment,121,123.0
+1442,Placebo,116,106.0
+1443,No Treatment,105,104.0
+1444,Placebo,121,113.0
+1445,No Treatment,123,125.0
+1446,Placebo,101,99.0
+1447,No Treatment,125,124.0
+1448,No Treatment,117,115.0
+1449,No Treatment,91,92.0
+1450,No Treatment,107,109.0
+1451,Placebo,113,108.0
+1452,No Treatment,148,153.0
+1453,No Treatment,128,126.0
+1454,No Treatment,99,100.0
+1455,Placebo,127,121.0
+1456,No Treatment,96,96.0
+1457,No Treatment,136,137.0
+1458,No Treatment,112,110.0
+1459,Placebo,118,109.0
+1460,No Treatment,139,137.0
+1461,Placebo,100,92.0
+1462,No Treatment,99,98.0
+1463,Placebo,111,100.0
+1464,No Treatment,135,135.0
+1465,No Treatment,97,96.0
+1466,Placebo,77,72.0
+1467,No Treatment,113,114.0
+1468,Placebo,128,122.0
+1469,No Treatment,138,140.0
+1470,No Treatment,113,114.0
+1471,No Treatment,113,116.0
+1472,No Treatment,137,137.0
+1473,No Treatment,91,89.0
+1474,Placebo,114,107.0
+1475,Placebo,122,117.0
+1476,No Treatment,126,128.0
+1477,No Treatment,112,111.0
+1478,No Treatment,120,121.0
+1479,No Treatment,82,85.0
+1480,Placebo,110,107.0
+1481,No Treatment,126,126.0
+1482,Placebo,105,106.0
+1483,No Treatment,120,118.0
+1484,Placebo,126,117.0
+1485,Placebo,114,113.0
+1486,Placebo,122,120.0
+1487,Placebo,105,98.0
+1488,No Treatment,116,115.0
+1489,Placebo,129,125.0
+1490,Placebo,122,116.0
+1491,Placebo,111,107.0
+1492,Placebo,123,123.0
+1493,Placebo,130,127.0
+1494,Placebo,89,86.0
+1495,No Treatment,137,139.0
+1496,No Treatment,114,114.0
+1497,No Treatment,126,126.0
+1498,Placebo,137,131.0
+1499,Placebo,99,90.0
+1500,No Treatment,109,110.0
+1501,No Treatment,115,116.0
+1502,Placebo,108,103.0
+1503,Placebo,146,145.0
+1504,Placebo,107,98.0
+1505,Placebo,111,103.0
+1506,Placebo,123,119.0
+1507,No Treatment,101,101.0
+1508,No Treatment,114,114.0
+1509,No Treatment,124,124.0
+1510,No Treatment,115,116.0
+1511,No Treatment,118,119.0
+1512,No Treatment,112,112.0
+1513,No Treatment,97,99.0
+1514,Placebo,124,117.0
+1515,Placebo,146,139.0
+1516,Placebo,120,114.0
+1517,No Treatment,123,123.0
+1518,No Treatment,130,129.0
+1519,Placebo,100,91.0
+1520,No Treatment,145,144.0
+1521,Placebo,123,116.0
+1522,No Treatment,144,143.0
+1523,Placebo,109,107.0
+1524,Placebo,147,139.0
+1525,Placebo,131,122.0
+1526,Placebo,128,122.0
+1527,Placebo,123,121.0
+1528,Placebo,116,111.0
+1529,No Treatment,138,138.0
+1530,No Treatment,122,124.0
+1531,Placebo,90,84.0
+1532,No Treatment,103,102.0
+1533,No Treatment,117,117.0
+1534,Placebo,124,120.0
+1535,Placebo,119,109.0
+1536,Placebo,138,135.0
+1537,Placebo,90,87.0
+1538,No Treatment,122,121.0
+1539,Placebo,92,86.0
+1540,No Treatment,131,131.0
+1541,No Treatment,118,115.0
+1542,Placebo,126,125.0
+1543,No Treatment,107,107.0
+1544,Placebo,139,131.0
+1545,No Treatment,135,135.0
+1546,Placebo,128,127.0
+1547,No Treatment,118,119.0
+1548,No Treatment,128,128.0
+1549,Placebo,109,105.0
+1550,No Treatment,132,130.0
+1551,No Treatment,144,146.0
+1552,No Treatment,136,136.0
+1553,No Treatment,109,109.0
+1554,No Treatment,125,125.0
+1555,Placebo,100,94.0
+1556,Placebo,128,123.0
+1557,No Treatment,126,125.0
+1558,Placebo,91,86.0
+1559,No Treatment,102,102.0
+1560,No Treatment,115,115.0
+1561,Placebo,115,114.0
+1562,Placebo,101,93.0
+1563,No Treatment,125,122.0
+1564,Placebo,123,116.0
+1565,No Treatment,117,116.0
+1566,Placebo,108,107.0
+1567,No Treatment,135,135.0
+1568,Placebo,144,138.0
+1569,No Treatment,112,112.0
+1570,Placebo,110,108.0
+1571,No Treatment,127,129.0
+1572,Placebo,114,114.0
+1573,No Treatment,117,116.0
+1574,No Treatment,131,131.0
+1575,Placebo,91,85.0
+1576,Placebo,139,137.0
+1577,Placebo,121,113.0
+1578,No Treatment,113,112.0
+1579,No Treatment,118,117.0
+1580,No Treatment,119,119.0
+1581,Placebo,94,92.0
+1582,Placebo,142,138.0
+1583,No Treatment,120,121.0
+1584,Placebo,126,123.0
+1585,No Treatment,134,132.0
+1586,Placebo,104,98.0
+1587,No Treatment,127,127.0
+1588,Placebo,115,106.0
+1589,Placebo,132,129.0
+1590,No Treatment,88,85.0
+1591,No Treatment,118,117.0
+1592,No Treatment,110,110.0
+1593,Placebo,126,115.0
+1594,Placebo,127,122.0
+1595,No Treatment,109,112.0
+1596,No Treatment,109,109.0
+1597,Placebo,118,116.0
+1598,Placebo,106,102.0
+1599,Placebo,132,132.0
+1600,No Treatment,114,110.0
+1601,Placebo,76,75.0
+1602,Placebo,114,108.0
+1603,Placebo,104,100.0
+1604,Placebo,95,90.0
+1605,Placebo,101,92.0
+1606,No Treatment,121,118.0
+1607,Placebo,139,132.0
+1608,No Treatment,124,124.0
+1609,Placebo,110,104.0
+1610,No Treatment,126,127.0
+1611,No Treatment,113,113.0
+1612,No Treatment,109,109.0
+1613,No Treatment,102,104.0
+1614,Placebo,93,82.0
+1615,Placebo,114,110.0
+1616,No Treatment,122,121.0
+1617,No Treatment,118,119.0
+1618,No Treatment,113,110.0
+1619,No Treatment,105,104.0
+1620,No Treatment,129,126.0
+1621,Placebo,100,95.0
+1622,Placebo,131,121.0
+1623,No Treatment,104,104.0
+1624,No Treatment,108,108.0
+1625,Placebo,97,94.0
+1626,No Treatment,112,112.0
+1627,Placebo,134,132.0
+1628,No Treatment,127,127.0
+1629,Placebo,134,130.0
+1630,Placebo,127,122.0
+1631,No Treatment,103,102.0
+1632,Placebo,115,112.0
+1633,No Treatment,108,108.0
+1634,No Treatment,139,137.0
+1635,No Treatment,102,104.0
+1636,Placebo,133,131.0
+1637,Placebo,133,129.0
+1638,Placebo,147,140.0
+1639,No Treatment,113,113.0
+1640,No Treatment,130,130.0
+1641,No Treatment,154,157.0
+1642,No Treatment,110,108.0
+1643,No Treatment,96,94.0
+1644,No Treatment,91,89.0
+1645,Placebo,130,126.0
+1646,No Treatment,91,91.0
+1647,Placebo,114,113.0
+1648,No Treatment,126,126.0
+1649,No Treatment,122,123.0
+1650,No Treatment,126,131.0
+1651,Placebo,123,117.0
+1652,Placebo,139,140.0
+1653,Placebo,105,99.0
+1654,Placebo,109,105.0
+1655,Placebo,108,101.0
+1656,No Treatment,132,128.0
+1657,No Treatment,133,134.0
+1658,Placebo,126,122.0
+1659,Placebo,137,127.0
+1660,Placebo,102,96.0
+1661,No Treatment,145,144.0
+1662,No Treatment,142,141.0
+1663,No Treatment,131,130.0
+1664,Placebo,146,138.0
+1665,No Treatment,95,94.0
+1666,No Treatment,112,115.0
+1667,Placebo,108,104.0
+1668,No Treatment,130,131.0
+1669,Placebo,104,102.0
+1670,No Treatment,131,131.0
+1671,Placebo,140,137.0
+1672,No Treatment,130,132.0
+1673,No Treatment,124,121.0
+1674,No Treatment,105,103.0
+1675,No Treatment,107,103.0
+1676,Placebo,138,126.0
+1677,Placebo,131,132.0
+1678,Placebo,119,115.0
+1679,Placebo,113,106.0
+1680,No Treatment,89,88.0
+1681,Placebo,103,99.0
+1682,No Treatment,148,148.0
+1683,No Treatment,100,100.0
+1684,No Treatment,122,122.0
+1685,Placebo,135,131.0
+1686,No Treatment,101,99.0
+1687,No Treatment,122,123.0
+1688,Placebo,134,127.0
+1689,No Treatment,120,120.0
+1690,No Treatment,163,164.0
+1691,Placebo,94,90.0
+1692,No Treatment,135,132.0
+1693,Placebo,117,111.0
+1694,Placebo,131,125.0
+1695,Placebo,126,119.0
+1696,Placebo,109,100.0
+1697,Placebo,123,119.0
+1698,Placebo,92,89.0
+1699,No Treatment,129,129.0
+1700,No Treatment,124,122.0
+1701,No Treatment,129,129.0
+1702,Placebo,135,132.0
+1703,Placebo,125,123.0
+1704,No Treatment,122,123.0
+1705,Placebo,106,102.0
+1706,Placebo,109,103.0
+1707,No Treatment,137,137.0
+1708,Placebo,141,139.0
+1709,No Treatment,116,115.0
+1710,No Treatment,120,120.0
+1711,Placebo,106,97.0
+1712,Placebo,137,130.0
+1713,No Treatment,129,126.0
+1714,Placebo,149,142.0
+1715,Placebo,106,105.0
+1716,No Treatment,114,116.0
+1717,Placebo,123,121.0
+1718,No Treatment,129,129.0
+1719,No Treatment,116,118.0
+1720,Placebo,106,103.0
+1721,Placebo,133,132.0
+1722,Placebo,130,123.0
+1723,Placebo,106,103.0
+1724,Placebo,140,135.0
+1725,No Treatment,137,136.0
+1726,Placebo,122,120.0
+1727,No Treatment,121,120.0
+1728,No Treatment,128,127.0
+1729,No Treatment,107,108.0
+1730,No Treatment,120,119.0
+1731,Placebo,87,82.0
+1732,No Treatment,133,134.0
+1733,No Treatment,96,96.0
+1734,Placebo,142,136.0
+1735,Placebo,115,112.0
+1736,No Treatment,116,113.0
+1737,Placebo,110,108.0
+1738,Placebo,115,108.0
+1739,Placebo,141,136.0
+1740,Placebo,82,74.0
+1741,No Treatment,139,138.0
+1742,No Treatment,125,123.0
+1743,No Treatment,101,101.0
+1744,Placebo,103,91.0
+1745,Placebo,145,141.0
+1746,Placebo,105,102.0
+1747,Placebo,102,98.0
+1748,Placebo,137,127.0
+1749,No Treatment,125,123.0
+1750,Placebo,105,99.0
+1751,No Treatment,123,124.0
+1752,Placebo,104,93.0
+1753,Placebo,136,136.0
+1754,Placebo,135,127.0
+1755,No Treatment,127,127.0
+1756,No Treatment,125,125.0
+1757,No Treatment,146,147.0
+1758,Placebo,119,118.0
+1759,Placebo,102,100.0
+1760,No Treatment,126,127.0
+1761,Placebo,151,144.0
+1762,No Treatment,104,104.0
+1763,Placebo,114,106.0
+1764,Placebo,126,123.0
+1765,Placebo,119,112.0
+1766,Placebo,105,101.0
+1767,No Treatment,136,135.0
+1768,Placebo,154,148.0
+1769,Placebo,122,112.0
+1770,Placebo,106,95.0
+1771,Placebo,96,92.0
+1772,No Treatment,123,120.0
+1773,No Treatment,136,135.0
+1774,No Treatment,127,126.0
+1775,No Treatment,119,119.0
+1776,Placebo,111,105.0
+1777,No Treatment,103,103.0
+1778,Placebo,132,126.0
+1779,Placebo,133,131.0
+1780,No Treatment,96,97.0
+1781,Placebo,143,142.0
+1782,No Treatment,128,127.0
+1783,Placebo,140,135.0
+1784,No Treatment,99,99.0
+1785,No Treatment,99,101.0
+1786,No Treatment,117,117.0
+1787,No Treatment,127,127.0
+1788,No Treatment,146,145.0
+1789,Placebo,130,124.0
+1790,No Treatment,116,115.0
+1791,Placebo,104,101.0
+1792,No Treatment,138,137.0
+1793,No Treatment,105,104.0
+1794,No Treatment,144,145.0
+1795,Placebo,115,106.0
+1796,Placebo,143,139.0
+1797,No Treatment,130,130.0
+1798,Placebo,117,114.0
+1799,Placebo,112,110.0
+1800,Placebo,114,104.0
+1801,No Treatment,126,124.0
+1802,No Treatment,121,124.0
+1803,Placebo,111,104.0
+1804,Placebo,117,110.0
+1805,Placebo,121,117.0
+1806,No Treatment,88,88.0
+1807,No Treatment,126,124.0
+1808,Placebo,105,102.0
+1809,Placebo,102,102.0
+1810,Placebo,94,88.0
+1811,No Treatment,93,93.0
+1812,No Treatment,99,99.0
+1813,Placebo,109,103.0
+1814,Placebo,149,148.0
+1815,Placebo,112,108.0
+1816,No Treatment,122,125.0
+1817,Placebo,126,125.0
+1818,No Treatment,121,119.0
+1819,No Treatment,118,119.0
+1820,Placebo,102,98.0
+1821,Placebo,141,133.0
+1822,Placebo,147,139.0
+1823,No Treatment,94,96.0
+1824,No Treatment,104,103.0
+1825,No Treatment,115,115.0
+1826,No Treatment,105,103.0
+1827,Placebo,127,118.0
+1828,No Treatment,109,109.0
+1829,No Treatment,152,152.0
+1830,Placebo,137,134.0
+1831,No Treatment,123,124.0
+1832,No Treatment,135,137.0
+1833,No Treatment,136,135.0
+1834,No Treatment,111,108.0
+1835,No Treatment,107,107.0
+1836,No Treatment,121,121.0
+1837,Placebo,132,131.0
+1838,Placebo,122,122.0
+1839,No Treatment,96,96.0
+1840,Placebo,107,105.0
+1841,Placebo,118,117.0
+1842,Placebo,118,112.0
+1843,Placebo,149,141.0
+1844,No Treatment,99,99.0
+1845,No Treatment,127,127.0
+1846,Placebo,142,140.0
+1847,Placebo,154,151.0
+1848,Placebo,113,109.0
+1849,No Treatment,127,130.0
+1850,No Treatment,128,128.0
+1851,Placebo,122,119.0
+1852,No Treatment,118,118.0
+1853,No Treatment,126,125.0
+1854,No Treatment,82,82.0
+1855,No Treatment,130,133.0
+1856,Placebo,121,117.0
+1857,No Treatment,116,116.0
+1858,Placebo,150,149.0
+1859,No Treatment,109,109.0
+1860,No Treatment,113,113.0
+1861,No Treatment,149,151.0
+1862,No Treatment,107,110.0
+1863,Placebo,111,110.0
+1864,No Treatment,117,117.0
+1865,No Treatment,132,132.0
+1866,No Treatment,123,123.0
+1867,Placebo,100,97.0
+1868,Placebo,112,110.0
+1869,Placebo,110,107.0
+1870,No Treatment,118,114.0
+1871,No Treatment,126,127.0
+1872,Placebo,126,120.0
+1873,No Treatment,93,93.0
+1874,No Treatment,135,135.0
+1875,No Treatment,123,122.0
+1876,No Treatment,140,140.0
+1877,No Treatment,126,126.0
+1878,No Treatment,136,138.0
+1879,Placebo,126,124.0
+1880,No Treatment,140,140.0
+1881,No Treatment,127,131.0
+1882,No Treatment,118,118.0
+1883,No Treatment,154,152.0
+1884,No Treatment,133,133.0
+1885,Placebo,128,119.0
+1886,Placebo,100,99.0
+1887,Placebo,100,92.0
+1888,Placebo,124,120.0
+1889,No Treatment,122,121.0
+1890,No Treatment,110,106.0
+1891,Placebo,122,115.0
+1892,Placebo,143,140.0
+1893,No Treatment,130,133.0
+1894,Placebo,102,97.0
+1895,No Treatment,118,119.0
+1896,No Treatment,107,108.0
+1897,No Treatment,114,114.0
+1898,Placebo,113,104.0
+1899,Placebo,112,109.0
+1900,No Treatment,101,99.0
+1901,No Treatment,118,118.0
+1902,Placebo,111,105.0
+1903,No Treatment,76,77.0
+1904,Placebo,150,148.0
+1905,No Treatment,136,134.0
+1906,Placebo,114,110.0
+1907,No Treatment,120,115.0
+1908,Placebo,102,99.0
+1909,Placebo,145,138.0
+1910,Placebo,148,142.0
+1911,Placebo,122,116.0
+1912,No Treatment,135,135.0
+1913,No Treatment,122,122.0
+1914,Placebo,99,97.0
+1915,Placebo,113,113.0
+1916,No Treatment,121,121.0
+1917,No Treatment,113,114.0
+1918,No Treatment,116,117.0
+1919,Placebo,118,111.0
+1920,Placebo,118,117.0
+1921,No Treatment,120,120.0
+1922,Placebo,104,93.0
+1923,No Treatment,109,111.0
+1924,Placebo,100,92.0
+1925,No Treatment,134,131.0
+1926,Placebo,88,81.0
+1927,No Treatment,137,138.0
+1928,Placebo,140,131.0
+1929,No Treatment,115,116.0
+1930,Placebo,80,71.0
+1931,No Treatment,114,112.0
+1932,No Treatment,119,116.0
+1933,No Treatment,104,103.0
+1934,No Treatment,112,111.0
+1935,No Treatment,142,143.0
+1936,No Treatment,129,128.0
+1937,Placebo,106,103.0
+1938,No Treatment,96,95.0
+1939,Placebo,115,110.0
+1940,Placebo,116,113.0
+1941,Placebo,127,125.0
+1942,Placebo,111,107.0
+1943,No Treatment,127,126.0
+1944,No Treatment,149,151.0
+1945,No Treatment,132,132.0
+1946,No Treatment,119,119.0
+1947,Placebo,117,114.0
+1948,Placebo,114,109.0
+1949,Placebo,137,129.0
+1950,Placebo,110,109.0
+1951,Placebo,120,114.0
+1952,Placebo,120,113.0
+1953,No Treatment,112,112.0
+1954,No Treatment,99,101.0
+1955,No Treatment,124,123.0
+1956,No Treatment,119,121.0
+1957,No Treatment,127,127.0
+1958,Placebo,111,106.0
+1959,No Treatment,138,138.0
+1960,No Treatment,106,111.0
+1961,Placebo,145,138.0
+1962,Placebo,93,87.0
+1963,No Treatment,126,124.0
+1964,Placebo,127,124.0
+1965,No Treatment,108,108.0
+1966,No Treatment,126,124.0
+1967,Placebo,139,136.0
+1968,Placebo,86,79.0
+1969,Placebo,127,121.0
+1970,Placebo,82,81.0
+1971,Placebo,105,102.0
+1972,No Treatment,144,145.0
+1973,Placebo,111,112.0
+1974,No Treatment,102,105.0
+1975,Placebo,117,116.0
+1976,No Treatment,151,154.0
+1977,Placebo,92,91.0
+1978,Placebo,104,95.0
+1979,No Treatment,142,144.0
+1980,No Treatment,147,147.0
+1981,Placebo,118,116.0
+1982,No Treatment,101,101.0
+1983,Placebo,151,146.0
+1984,Placebo,143,137.0
+1985,Placebo,130,126.0
+1986,Placebo,107,105.0
+1987,No Treatment,119,116.0
+1988,Placebo,117,114.0
+1989,Placebo,124,117.0
+1990,No Treatment,141,145.0
+1991,No Treatment,133,133.0
+1992,Placebo,103,101.0
+1993,No Treatment,140,140.0
+1994,Placebo,124,118.0
+1995,No Treatment,130,132.0
+1996,No Treatment,141,140.0
+1997,No Treatment,103,103.0
+1998,Placebo,119,115.0
+1999,Placebo,112,107.0
+2000,Placebo,96,91.0
